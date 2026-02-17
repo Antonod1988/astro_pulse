@@ -6,6 +6,8 @@
 
 **AstroPulse** is a Streamlit-based web application that calculates and visualizes personal astrological transits. It uses the **Swiss Ephemeris** for precise planetary position calculations and provides interactive charts to help users understand upcoming astrological influences.
 
+![AstroPulse Screenshot](screenshot.png)
+
 ## 🌟 Features
 
 - **Precise Transit Calculations** — powered by the Swiss Ephemeris (`pyswisseph`) for astronomical-grade accuracy
